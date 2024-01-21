@@ -1,13 +1,16 @@
-## Olá!
-Meu nome é Lucas Mendes e sou natural de Campinas - São Paulo, Brasil. Sou um apaixonado por tecnologia e tenho como objetivo consolidar a minha carreira como Desenvolvedor.
+## Olá! 🚀
+👨 Meu nome é Lucas Mendes e sou natural de Campinas - São Paulo, Brasil. Sou um apaixonado por tecnologia e tenho como objetivo consolidar a minha carreira como Desenvolvedor. 
 
-Acompanhe-me pelo LinkedIn!
-<div> 
-    <a href="https://www.linkedin.com/in/danielsarmentodossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+👨 I'am Lucas Mendes, and I am originally from Campinas - São Paulo, Brazil. I am passionate about technology and my goal is to establish my career as a Developer.
 
 #
 
+📱 Acompanhe-me pelo LinkedIn! (Follow-me on LinkedIn)
+<div> 
+    <a href="https://www.linkedin.com/in/lucas-mendes-fabbri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+#
 
 <div align="left">
   <a href="https://github.com/lucasfabbrim">
@@ -16,7 +19,7 @@ Acompanhe-me pelo LinkedIn!
 </div>
       
 #
-Linguagens
+💻 Linguagens (Languages)
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Node" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -27,7 +30,7 @@ Linguagens
 
 #
 
-Banco de Dados
+💻 Banco de Dados (Database)
 <div style="display: inline_block">
   <img align="center" alt="MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="PostgreSQL" height="30" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
