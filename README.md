@@ -39,7 +39,7 @@
 
  #
 
- ☁ Núvem (Cloud)
+ ☁ Núvem (Cloud) - Clique para ver os certificados!
 <div style="display: inline_block">
   <a href="https://www.udemy.com/certificate/UC-e61256a0-3c84-44f7-94c8-b8783a3423e1/"><img align="center" alt="AmazonAWS" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   <a href="https://www.sp.senai.br/consulta-certificado?qrcode=51222234712/13207237"><img align="center" alt="GoogleCloud" height="30" width="100" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
