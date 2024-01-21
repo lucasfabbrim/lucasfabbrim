@@ -41,9 +41,9 @@
 
  ☁ Núvem (Cloud)
 <div style="display: inline_block">
-  <a href="https://www.sp.senai.br/consulta-certificado?qrcode=51222234712/13207237"></a><img align="center" alt="AmazonAWS" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="GoogleCloud" height="30" width="100" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img align="center" alt="Azure" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <a href="https://www.udemy.com/certificate/UC-e61256a0-3c84-44f7-94c8-b8783a3423e1/"><img align="center" alt="AmazonAWS" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  <a href="https://www.sp.senai.br/consulta-certificado?qrcode=51222234712/13207237"><img align="center" alt="GoogleCloud" height="30" width="100" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+  <a href="https://www.udemy.com/certificate/UC-0a97696c-7c30-4477-b5ad-a496e31f6bcd/"><img align="center" alt="Azure" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </div>
 
  
