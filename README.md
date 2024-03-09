@@ -1,5 +1,5 @@
-## Olá! 🚀
-👨 Meu nome é Lucas Mendes e sou natural de Campinas - São Paulo, Brasil. Sou um apaixonado por tecnologia e tenho como objetivo consolidar a minha carreira como Desenvolvedor. 
+## Hi, I'am Lucas Mendes! 🚀
+ 👨 I am a native of Campinas, São Paulo - Brazil. A lover of technology, I have the objective of consolidating my career as a developer.
 #
 
 📱 Acompanhe-me pelo LinkedIn! (Follow-me on LinkedIn)
