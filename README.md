@@ -2,7 +2,7 @@
  👨 I am a native of Campinas, São Paulo - Brazil. A lover of technology, I have the objective of consolidating my career as a developer.
 #
 
-📱 Acompanhe-me pelo LinkedIn! (Follow-me on LinkedIn)
+📱 Follow-me on LinkedIn:
 <div> 
     <a href="https://www.linkedin.com/in/lucas-mendes-fabbri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -16,7 +16,7 @@
 </div>
       
 #
-💻 Linguagens (Languages)
+💻 Languages
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Node" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -27,7 +27,7 @@
 
 #
 
-💻 Banco de Dados (Database)
+💻 Databases
 <div style="display: inline_block">
   <img align="center" alt="MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="PostgreSQL" height="30" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -36,7 +36,7 @@
 
  #
 
- ☁ Núvem (Cloud) - Clique para ver os certificados!
+ ☁ Clouds
 <div style="display: inline_block">
   <a href="https://www.udemy.com/certificate/UC-e61256a0-3c84-44f7-94c8-b8783a3423e1/"><img align="center" alt="AmazonAWS" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
   <a href="https://www.sp.senai.br/consulta-certificado?qrcode=51222234712/13207237"><img align="center" alt="GoogleCloud" height="30" width="100" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
